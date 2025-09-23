@@ -9,6 +9,7 @@ Olá :hand:
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+<img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
       
 [![Sidnei Leao stats](https://github-readme-stats.vercel.app/api?username=sidnei-leao)](https://github.com/anuraghazra/github-readme-statsbg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
